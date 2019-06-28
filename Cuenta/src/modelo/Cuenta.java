@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Gabriel
+ * @author DELL-PC
  */
 public class Cuenta {
 

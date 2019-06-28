@@ -4,7 +4,7 @@ import modelo.Cuenta;
 
 /**
  *
- * @author Gabriel
+ * @author DELL-PC
  */
 public class Sistema {
 
@@ -19,6 +19,8 @@ public class Sistema {
         cuenta1.Retirar(4);
         cuenta1.Retirar(2);
         cuenta1.Retirar(2000);
+        cuenta1.Depositar(5000);
+        
         System.out.println(cuenta1.toString());
     }
     
