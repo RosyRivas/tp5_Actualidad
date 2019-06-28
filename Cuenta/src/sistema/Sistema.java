@@ -18,7 +18,7 @@ public class Sistema {
         cuenta1.Retirar(5);
         cuenta1.Retirar(4);
         cuenta1.Retirar(2);
-        
+        cuenta1.Retirar(2000);
         System.out.println(cuenta1.toString());
     }
     
